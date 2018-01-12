@@ -13,15 +13,6 @@ import java.util.ArrayList
 
 
 //isfirst=0&STBType=EC6108V9U_pub_zjzdx&STBID=001004990060893017118421F185AD8C&areaId=57601&UserID=5760000101&NetUserID=snowiptv%40itv&NetPwd=iptv95%40%21&Pwd=111111
-val AuthenticationURL  = "http://61.175.74.146:8082/"
-val STBType     = "EC6108V9U_pub_zjzdx"
-val STBID       = "001004990060893017118421F185AD8C"
-var areaId      = "57601"
-var UserID      ="5760000101"
-var NetUserID   ="snowiptv@itv"
-var NetPwd      ="iptv95@!"
-var Pwd         ="111111"
-var isfirst     ="0"
 
 //object  Cook : CookieJar {
 //
