@@ -10,10 +10,6 @@ import java.util.ArrayList
  * Created by PC on 2017/7/4.
  */
 
-
-
-//isfirst=0&STBType=EC6108V9U_pub_zjzdx&STBID=001004990060893017118421F185AD8C&areaId=57601&UserID=5760000101&NetUserID=snowiptv%40itv&NetPwd=iptv95%40%21&Pwd=111111
-
 //object  Cook : CookieJar {
 //
 //    private val cookieStore = HashMap<HttpUrl, MutableList<Cookie>>()
