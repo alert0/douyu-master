@@ -1,0 +1,364 @@
+2018-01-12 11:13:11 INFO InfoThead:17 - Sub:读写配置
+2018-01-12 11:13:11 INFO SetSystemProperty:62 - room键的值是：67373
+2018-01-12 11:13:11 INFO SetSystemProperty:62 - Timeout键的值是：-1
+2018-01-12 11:13:11 INFO SetSystemProperty:62 - CONNECTION_TIMEOUT键的值是：15000
+2018-01-12 11:13:11 INFO SetSystemProperty:62 - SO_TIMEOUT键的值是：15000
+2018-01-12 11:13:11 INFO SetSystemProperty:62 - CONNECTIONREQUESTTIMEOUT键的值是：40000
+2018-01-12 11:13:11 INFO SetSystemProperty:62 - cdn键的值是：ws
+2018-01-12 11:13:11 INFO SetSystemProperty:62 - rate键的值是：0
+2018-01-12 11:13:11 INFO SetSystemProperty:62 - PLAYLIST键的值是：100
+2018-01-12 11:13:11 INFO InfoThead:49 - -1:15000:15000:100
+2018-01-12 11:14:23 INFO InfoThead:17 - Sub:读写配置
+2018-01-12 11:14:23 INFO SetSystemProperty:62 - room键的值是：67373
+2018-01-12 11:14:24 INFO SetSystemProperty:62 - Timeout键的值是：-1
+2018-01-12 11:14:24 INFO SetSystemProperty:62 - CONNECTION_TIMEOUT键的值是：15000
+2018-01-12 11:14:24 INFO SetSystemProperty:62 - SO_TIMEOUT键的值是：15000
+2018-01-12 11:14:24 INFO SetSystemProperty:62 - CONNECTIONREQUESTTIMEOUT键的值是：40000
+2018-01-12 11:14:24 INFO SetSystemProperty:62 - cdn键的值是：ws
+2018-01-12 11:14:24 INFO SetSystemProperty:62 - rate键的值是：0
+2018-01-12 11:14:24 INFO SetSystemProperty:62 - PLAYLIST键的值是：100
+2018-01-12 11:14:24 INFO InfoThead:49 - -1:15000:15000:100
+2018-01-12 11:14:25 INFO DownloaderThead:58 - 开始423895
+2018-01-12 11:14:26 INFO LoginMinaThread:164 - 随机选择登陆服务器 119.90.49.88:8087
+2018-01-12 11:14:31 INFO LoginMinaHandler:92 - 获取的登录用户名为: visitor9169
+2018-01-12 11:14:32 INFO LoginMinaHandler:95 - 登陆的房间编号为: 423895 床
+2018-01-12 11:14:32 INFO LoginMinaHandler:98 - 加入的讨论群组为: 4 组
+2018-01-12 11:21:29 INFO InfoThead:17 - Sub:读写配置
+2018-01-12 11:21:29 INFO SetSystemProperty:62 - room键的值是：67373
+2018-01-12 11:21:29 INFO SetSystemProperty:62 - Timeout键的值是：-1
+2018-01-12 11:21:29 INFO SetSystemProperty:62 - CONNECTION_TIMEOUT键的值是：15000
+2018-01-12 11:21:29 INFO SetSystemProperty:62 - SO_TIMEOUT键的值是：15000
+2018-01-12 11:21:29 INFO SetSystemProperty:62 - CONNECTIONREQUESTTIMEOUT键的值是：40000
+2018-01-12 11:21:29 INFO SetSystemProperty:62 - cdn键的值是：ws
+2018-01-12 11:21:29 INFO SetSystemProperty:62 - rate键的值是：0
+2018-01-12 11:21:29 INFO SetSystemProperty:62 - PLAYLIST键的值是：100
+2018-01-12 11:21:29 INFO InfoThead:49 - -1:15000:15000:100
+2018-01-12 11:21:31 INFO DownloaderThead:30 - Sub:初始化录像进程
+2018-01-12 11:21:32 INFO LoginMinaThread:164 - 随机选择登陆服务器 119.90.49.107:8031
+2018-01-12 11:21:37 INFO LoginMinaHandler:92 - 获取的登录用户名为: visitor16276
+2018-01-12 11:21:37 INFO LoginMinaHandler:95 - 登陆的房间编号为: 423895 床
+2018-01-12 11:21:37 INFO LoginMinaHandler:98 - 加入的讨论群组为: 2 组
+2018-01-12 11:22:04 INFO InfoThead:17 - Sub:读写配置
+2018-01-12 11:22:04 INFO SetSystemProperty:62 - room键的值是：67373
+2018-01-12 11:22:04 INFO SetSystemProperty:62 - Timeout键的值是：-1
+2018-01-12 11:22:04 INFO SetSystemProperty:62 - CONNECTION_TIMEOUT键的值是：15000
+2018-01-12 11:22:04 INFO SetSystemProperty:62 - SO_TIMEOUT键的值是：15000
+2018-01-12 11:22:04 INFO SetSystemProperty:62 - CONNECTIONREQUESTTIMEOUT键的值是：40000
+2018-01-12 11:22:04 INFO SetSystemProperty:62 - cdn键的值是：ws
+2018-01-12 11:22:04 INFO SetSystemProperty:62 - rate键的值是：0
+2018-01-12 11:22:04 INFO SetSystemProperty:62 - PLAYLIST键的值是：100
+2018-01-12 11:22:04 INFO InfoThead:49 - -1:15000:15000:100
+2018-01-12 11:22:06 INFO DownloaderThead:30 - Sub:初始化录像进程
+2018-01-12 11:22:07 INFO LoginMinaThread:164 - 随机选择登陆服务器 119.90.49.103:8014
+2018-01-12 11:22:12 INFO LoginMinaHandler:92 - 获取的登录用户名为: visitor16871
+2018-01-12 11:22:12 INFO LoginMinaHandler:95 - 登陆的房间编号为: 423895 床
+2018-01-12 11:22:12 INFO LoginMinaHandler:98 - 加入的讨论群组为: 7 组
+2018-01-12 11:24:25 INFO InfoThead:17 - Sub:读写配置
+2018-01-12 11:24:25 INFO SetSystemProperty:62 - room键的值是：67373
+2018-01-12 11:24:25 INFO SetSystemProperty:62 - Timeout键的值是：-1
+2018-01-12 11:24:25 INFO SetSystemProperty:62 - CONNECTION_TIMEOUT键的值是：15000
+2018-01-12 11:24:25 INFO SetSystemProperty:62 - SO_TIMEOUT键的值是：15000
+2018-01-12 11:24:25 INFO SetSystemProperty:62 - CONNECTIONREQUESTTIMEOUT键的值是：40000
+2018-01-12 11:24:25 INFO SetSystemProperty:62 - cdn键的值是：ws
+2018-01-12 11:24:25 INFO SetSystemProperty:62 - rate键的值是：0
+2018-01-12 11:24:25 INFO SetSystemProperty:62 - PLAYLIST键的值是：100
+2018-01-12 11:24:25 INFO InfoThead:49 - -1:15000:15000:100
+2018-01-12 11:24:27 INFO DownloaderThead:30 - Sub:初始化录像进程
+2018-01-12 11:24:28 INFO LoginMinaThread:164 - 随机选择登陆服务器 119.90.49.88:8088
+2018-01-12 11:24:32 INFO LoginMinaHandler:92 - 获取的登录用户名为: visitor19228
+2018-01-12 11:24:33 INFO LoginMinaHandler:95 - 登陆的房间编号为: 423895 床
+2018-01-12 11:24:33 INFO LoginMinaHandler:98 - 加入的讨论群组为: 1 组
+2018-01-12 11:25:57 INFO InfoThead:17 - Sub:读写配置
+2018-01-12 11:25:57 INFO SetSystemProperty:62 - room键的值是：67373
+2018-01-12 11:25:57 INFO SetSystemProperty:62 - Timeout键的值是：-1
+2018-01-12 11:25:57 INFO SetSystemProperty:62 - CONNECTION_TIMEOUT键的值是：15000
+2018-01-12 11:25:57 INFO SetSystemProperty:62 - SO_TIMEOUT键的值是：15000
+2018-01-12 11:25:57 INFO SetSystemProperty:62 - CONNECTIONREQUESTTIMEOUT键的值是：40000
+2018-01-12 11:25:57 INFO SetSystemProperty:62 - cdn键的值是：ws
+2018-01-12 11:25:57 INFO SetSystemProperty:62 - rate键的值是：0
+2018-01-12 11:25:57 INFO SetSystemProperty:62 - PLAYLIST键的值是：100
+2018-01-12 11:25:57 INFO InfoThead:49 - -1:15000:15000:100
+2018-01-12 11:25:59 INFO DownloaderThead:30 - Sub:初始化录像进程
+2018-01-12 11:26:00 INFO LoginMinaThread:164 - 随机选择登陆服务器 119.90.49.87:8081
+2018-01-12 11:26:05 INFO LoginMinaHandler:92 - 获取的登录用户名为: visitor20768
+2018-01-12 11:26:05 INFO LoginMinaHandler:95 - 登陆的房间编号为: 423895 床
+2018-01-12 11:26:05 INFO LoginMinaHandler:98 - 加入的讨论群组为: 4 组
+2018-01-12 11:27:15 INFO InfoThead:17 - Sub:读写配置
+2018-01-12 11:27:15 INFO SetSystemProperty:62 - room键的值是：67373
+2018-01-12 11:27:16 INFO SetSystemProperty:62 - Timeout键的值是：-1
+2018-01-12 11:27:16 INFO SetSystemProperty:62 - CONNECTION_TIMEOUT键的值是：15000
+2018-01-12 11:27:16 INFO SetSystemProperty:62 - SO_TIMEOUT键的值是：15000
+2018-01-12 11:27:16 INFO SetSystemProperty:62 - CONNECTIONREQUESTTIMEOUT键的值是：40000
+2018-01-12 11:27:16 INFO SetSystemProperty:62 - cdn键的值是：ws
+2018-01-12 11:27:16 INFO SetSystemProperty:62 - rate键的值是：0
+2018-01-12 11:27:16 INFO SetSystemProperty:62 - PLAYLIST键的值是：100
+2018-01-12 11:27:16 INFO InfoThead:49 - -1:15000:15000:100
+2018-01-12 11:27:17 INFO DownloaderThead:30 - Sub:初始化录像进程
+2018-01-12 11:27:18 INFO LoginMinaThread:164 - 随机选择登陆服务器 119.90.49.110:8049
+2018-01-12 11:27:23 INFO LoginMinaHandler:92 - 获取的登录用户名为: visitor14808
+2018-01-12 11:27:23 INFO LoginMinaHandler:95 - 登陆的房间编号为: 2700633 床
+2018-01-12 11:27:24 INFO LoginMinaHandler:98 - 加入的讨论群组为: 1 组
+2018-01-12 13:07:08 INFO InfoThead:17 - Sub:读写配置
+2018-01-12 13:07:08 INFO SetSystemProperty:62 - room键的值是：67373
+2018-01-12 13:07:08 INFO SetSystemProperty:62 - Timeout键的值是：-1
+2018-01-12 13:07:08 INFO SetSystemProperty:62 - CONNECTION_TIMEOUT键的值是：15000
+2018-01-12 13:07:08 INFO SetSystemProperty:62 - SO_TIMEOUT键的值是：15000
+2018-01-12 13:07:08 INFO SetSystemProperty:62 - CONNECTIONREQUESTTIMEOUT键的值是：40000
+2018-01-12 13:07:08 INFO SetSystemProperty:62 - cdn键的值是：ws
+2018-01-12 13:07:08 INFO SetSystemProperty:62 - rate键的值是：0
+2018-01-12 13:07:08 INFO SetSystemProperty:62 - PLAYLIST键的值是：100
+2018-01-12 13:07:08 INFO InfoThead:49 - -1:15000:15000:100
+2018-01-12 13:07:10 INFO DownloaderThead:30 - Sub:初始化录像进程
+2018-01-12 13:07:10 INFO LoginMinaThread:164 - 随机选择登陆服务器 119.90.49.92:8056
+2018-01-12 13:07:15 INFO LoginMinaHandler:92 - 获取的登录用户名为: visitor91713
+2018-01-12 13:07:15 INFO LoginMinaHandler:95 - 登陆的房间编号为: 2700633 床
+2018-01-12 13:07:16 INFO LoginMinaHandler:98 - 加入的讨论群组为: 1 组
+2018-01-12 13:12:11 INFO InfoThead:17 - Sub:读写配置
+2018-01-12 13:12:11 INFO SetSystemProperty:62 - room键的值是：67373
+2018-01-12 13:12:11 INFO SetSystemProperty:62 - Timeout键的值是：-1
+2018-01-12 13:12:11 INFO SetSystemProperty:62 - CONNECTION_TIMEOUT键的值是：15000
+2018-01-12 13:12:11 INFO SetSystemProperty:62 - SO_TIMEOUT键的值是：15000
+2018-01-12 13:12:11 INFO SetSystemProperty:62 - CONNECTIONREQUESTTIMEOUT键的值是：40000
+2018-01-12 13:12:11 INFO SetSystemProperty:62 - cdn键的值是：ws
+2018-01-12 13:12:11 INFO SetSystemProperty:62 - rate键的值是：0
+2018-01-12 13:12:11 INFO SetSystemProperty:62 - PLAYLIST键的值是：100
+2018-01-12 13:12:11 INFO InfoThead:49 - -1:15000:15000:100
+2018-01-12 13:12:13 INFO DownloaderThead:30 - Sub:初始化录像进程
+2018-01-12 13:12:14 INFO LoginMinaThread:164 - 随机选择登陆服务器 119.90.49.88:8087
+2018-01-12 13:12:19 INFO LoginMinaHandler:92 - 获取的登录用户名为: visitor95845
+2018-01-12 13:12:19 INFO LoginMinaHandler:95 - 登陆的房间编号为: 2700633 床
+2018-01-12 13:12:19 INFO LoginMinaHandler:98 - 加入的讨论群组为: 1 组
+2018-01-12 13:13:31 INFO InfoThead:17 - Sub:读写配置
+2018-01-12 13:13:31 INFO SetSystemProperty:62 - room键的值是：67373
+2018-01-12 13:13:31 INFO SetSystemProperty:62 - Timeout键的值是：-1
+2018-01-12 13:13:31 INFO SetSystemProperty:62 - CONNECTION_TIMEOUT键的值是：15000
+2018-01-12 13:13:31 INFO SetSystemProperty:62 - SO_TIMEOUT键的值是：15000
+2018-01-12 13:13:31 INFO SetSystemProperty:62 - CONNECTIONREQUESTTIMEOUT键的值是：40000
+2018-01-12 13:13:31 INFO SetSystemProperty:62 - cdn键的值是：ws
+2018-01-12 13:13:31 INFO SetSystemProperty:62 - rate键的值是：0
+2018-01-12 13:13:31 INFO SetSystemProperty:62 - PLAYLIST键的值是：100
+2018-01-12 13:13:31 INFO InfoThead:49 - -1:15000:15000:100
+2018-01-12 13:13:33 INFO DownloaderThead:30 - Sub:初始化录像进程
+2018-01-12 13:13:34 INFO LoginMinaThread:164 - 随机选择登陆服务器 119.90.49.106:8027
+2018-01-12 13:13:39 INFO LoginMinaHandler:92 - 获取的登录用户名为: visitor96939
+2018-01-12 13:13:39 INFO LoginMinaHandler:95 - 登陆的房间编号为: 2700633 床
+2018-01-12 13:13:39 INFO LoginMinaHandler:98 - 加入的讨论群组为: 1 组
+2018-01-12 13:14:49 INFO InfoThead:17 - Sub:读写配置
+2018-01-12 13:14:49 INFO SetSystemProperty:62 - room键的值是：67373
+2018-01-12 13:14:49 INFO SetSystemProperty:62 - Timeout键的值是：-1
+2018-01-12 13:14:49 INFO SetSystemProperty:62 - CONNECTION_TIMEOUT键的值是：15000
+2018-01-12 13:14:49 INFO SetSystemProperty:62 - SO_TIMEOUT键的值是：15000
+2018-01-12 13:14:49 INFO SetSystemProperty:62 - CONNECTIONREQUESTTIMEOUT键的值是：40000
+2018-01-12 13:14:49 INFO SetSystemProperty:62 - cdn键的值是：ws
+2018-01-12 13:14:49 INFO SetSystemProperty:62 - rate键的值是：0
+2018-01-12 13:14:49 INFO SetSystemProperty:62 - PLAYLIST键的值是：100
+2018-01-12 13:14:49 INFO InfoThead:49 - -1:15000:15000:100
+2018-01-12 13:14:51 INFO DownloaderThead:30 - Sub:初始化录像进程
+2018-01-12 13:14:52 INFO LoginMinaThread:164 - 随机选择登陆服务器 119.90.49.87:8085
+2018-01-12 13:17:24 INFO InfoThead:17 - Sub:读写配置
+2018-01-12 13:17:24 INFO SetSystemProperty:62 - room键的值是：67373
+2018-01-12 13:17:24 INFO SetSystemProperty:62 - Timeout键的值是：-1
+2018-01-12 13:17:24 INFO SetSystemProperty:62 - CONNECTION_TIMEOUT键的值是：15000
+2018-01-12 13:17:24 INFO SetSystemProperty:62 - SO_TIMEOUT键的值是：15000
+2018-01-12 13:17:24 INFO SetSystemProperty:62 - CONNECTIONREQUESTTIMEOUT键的值是：40000
+2018-01-12 13:17:24 INFO SetSystemProperty:62 - cdn键的值是：ws
+2018-01-12 13:17:24 INFO SetSystemProperty:62 - rate键的值是：0
+2018-01-12 13:17:24 INFO SetSystemProperty:62 - PLAYLIST键的值是：100
+2018-01-12 13:17:24 INFO InfoThead:49 - -1:15000:15000:100
+2018-01-12 13:17:26 INFO DownloaderThead:30 - Sub:初始化录像进程
+2018-01-12 13:17:27 INFO LoginMinaThread:164 - 随机选择登陆服务器 119.90.49.87:8085
+2018-01-12 13:18:38 INFO LoginMinaThread:164 - 随机选择登陆服务器 119.90.49.89:8092
+2018-01-12 13:18:38 INFO LoginMinaHandler:92 - 获取的登录用户名为: visitor100346
+2018-01-12 13:18:38 INFO LoginMinaHandler:95 - 登陆的房间编号为: 2700633 床
+2018-01-12 13:18:38 INFO LoginMinaHandler:98 - 加入的讨论群组为: 1 组
+2018-01-12 13:19:38 INFO InfoThead:17 - Sub:读写配置
+2018-01-12 13:19:38 INFO SetSystemProperty:62 - room键的值是：67373
+2018-01-12 13:19:38 INFO SetSystemProperty:62 - Timeout键的值是：-1
+2018-01-12 13:19:38 INFO SetSystemProperty:62 - CONNECTION_TIMEOUT键的值是：15000
+2018-01-12 13:19:38 INFO SetSystemProperty:62 - SO_TIMEOUT键的值是：15000
+2018-01-12 13:19:38 INFO SetSystemProperty:62 - CONNECTIONREQUESTTIMEOUT键的值是：40000
+2018-01-12 13:19:38 INFO SetSystemProperty:62 - cdn键的值是：ws
+2018-01-12 13:19:38 INFO SetSystemProperty:62 - rate键的值是：0
+2018-01-12 13:19:38 INFO SetSystemProperty:62 - PLAYLIST键的值是：100
+2018-01-12 13:19:38 INFO InfoThead:49 - -1:15000:15000:100
+2018-01-12 13:19:40 INFO DownloaderThead:30 - Sub:初始化录像进程
+2018-01-12 13:19:41 INFO LoginMinaThread:164 - 随机选择登陆服务器 119.90.49.101:8002
+2018-01-12 13:20:36 INFO LoginMinaHandler:92 - 获取的登录用户名为: visitor102407
+2018-01-12 13:20:36 INFO LoginMinaHandler:95 - 登陆的房间编号为: 2700633 床
+2018-01-12 13:20:36 INFO LoginMinaHandler:98 - 加入的讨论群组为: 1 组
+2018-01-12 13:21:40 INFO InfoThead:17 - Sub:读写配置
+2018-01-12 13:21:40 INFO SetSystemProperty:62 - room键的值是：67373
+2018-01-12 13:21:40 INFO SetSystemProperty:62 - Timeout键的值是：-1
+2018-01-12 13:21:40 INFO SetSystemProperty:62 - CONNECTION_TIMEOUT键的值是：15000
+2018-01-12 13:21:40 INFO SetSystemProperty:62 - SO_TIMEOUT键的值是：15000
+2018-01-12 13:21:40 INFO SetSystemProperty:62 - CONNECTIONREQUESTTIMEOUT键的值是：40000
+2018-01-12 13:21:40 INFO SetSystemProperty:62 - cdn键的值是：ws
+2018-01-12 13:21:40 INFO SetSystemProperty:62 - rate键的值是：0
+2018-01-12 13:21:40 INFO SetSystemProperty:62 - PLAYLIST键的值是：100
+2018-01-12 13:21:40 INFO InfoThead:49 - -1:15000:15000:100
+2018-01-12 13:21:42 INFO DownloaderThead:30 - Sub:初始化录像进程
+2018-01-12 13:21:43 INFO LoginMinaThread:164 - 随机选择登陆服务器 119.90.49.92:8056
+2018-01-12 13:23:11 INFO LoginMinaThread:164 - 随机选择登陆服务器 119.90.49.86:8080
+2018-01-12 13:23:12 INFO LoginMinaHandler:92 - 获取的登录用户名为: visitor104502
+2018-01-12 13:23:12 INFO LoginMinaHandler:95 - 登陆的房间编号为: 2700633 床
+2018-01-12 13:23:12 INFO LoginMinaHandler:98 - 加入的讨论群组为: 1 组
+2018-01-12 13:23:32 INFO LoginMinaHandler:92 - 获取的登录用户名为: visitor106134
+2018-01-12 13:24:08 INFO InfoThead:17 - Sub:读写配置
+2018-01-12 13:24:08 INFO SetSystemProperty:62 - room键的值是：67373
+2018-01-12 13:24:08 INFO SetSystemProperty:62 - Timeout键的值是：-1
+2018-01-12 13:24:08 INFO SetSystemProperty:62 - CONNECTION_TIMEOUT键的值是：15000
+2018-01-12 13:24:08 INFO SetSystemProperty:62 - SO_TIMEOUT键的值是：15000
+2018-01-12 13:24:08 INFO SetSystemProperty:62 - CONNECTIONREQUESTTIMEOUT键的值是：40000
+2018-01-12 13:24:08 INFO SetSystemProperty:62 - cdn键的值是：ws
+2018-01-12 13:24:08 INFO SetSystemProperty:62 - rate键的值是：0
+2018-01-12 13:24:08 INFO SetSystemProperty:62 - PLAYLIST键的值是：100
+2018-01-12 13:24:08 INFO InfoThead:49 - -1:15000:15000:100
+2018-01-12 13:24:10 INFO DownloaderThead:30 - Sub:初始化录像进程
+2018-01-12 13:24:11 INFO LoginMinaThread:164 - 随机选择登陆服务器 119.90.49.102:8009
+2018-01-12 13:24:25 INFO LoginMinaHandler:92 - 获取的登录用户名为: visitor107197
+2018-01-12 13:24:25 INFO LoginMinaHandler:95 - 登陆的房间编号为: 2700633 床
+2018-01-12 13:24:25 INFO LoginMinaHandler:98 - 加入的讨论群组为: 1 组
+2018-01-12 13:26:02 INFO InfoThead:17 - Sub:读写配置
+2018-01-12 13:26:02 INFO SetSystemProperty:62 - room键的值是：67373
+2018-01-12 13:26:02 INFO SetSystemProperty:62 - Timeout键的值是：-1
+2018-01-12 13:26:02 INFO SetSystemProperty:62 - CONNECTION_TIMEOUT键的值是：15000
+2018-01-12 13:26:02 INFO SetSystemProperty:62 - SO_TIMEOUT键的值是：15000
+2018-01-12 13:26:02 INFO SetSystemProperty:62 - CONNECTIONREQUESTTIMEOUT键的值是：40000
+2018-01-12 13:26:02 INFO SetSystemProperty:62 - cdn键的值是：ws
+2018-01-12 13:26:02 INFO SetSystemProperty:62 - rate键的值是：0
+2018-01-12 13:26:02 INFO SetSystemProperty:62 - PLAYLIST键的值是：100
+2018-01-12 13:26:02 INFO InfoThead:49 - -1:15000:15000:100
+2018-01-12 13:26:04 INFO DownloaderThead:30 - Sub:初始化录像进程
+2018-01-12 13:26:05 INFO LoginMinaThread:164 - 随机选择登陆服务器 119.90.49.89:8095
+2018-01-12 13:26:10 INFO LoginMinaHandler:92 - 获取的登录用户名为: visitor109113
+2018-01-12 13:26:10 INFO LoginMinaHandler:95 - 登陆的房间编号为: 2700633 床
+2018-01-12 13:26:10 INFO LoginMinaHandler:98 - 加入的讨论群组为: 1 组
+2018-01-12 13:29:09 INFO InfoThead:17 - Sub:读写配置
+2018-01-12 13:29:09 INFO SetSystemProperty:62 - room键的值是：67373
+2018-01-12 13:29:09 INFO SetSystemProperty:62 - Timeout键的值是：-1
+2018-01-12 13:29:09 INFO SetSystemProperty:62 - CONNECTION_TIMEOUT键的值是：15000
+2018-01-12 13:29:09 INFO SetSystemProperty:62 - SO_TIMEOUT键的值是：15000
+2018-01-12 13:29:09 INFO SetSystemProperty:62 - CONNECTIONREQUESTTIMEOUT键的值是：40000
+2018-01-12 13:29:09 INFO SetSystemProperty:62 - cdn键的值是：ws
+2018-01-12 13:29:09 INFO SetSystemProperty:62 - rate键的值是：0
+2018-01-12 13:29:09 INFO SetSystemProperty:62 - PLAYLIST键的值是：100
+2018-01-12 13:29:09 INFO InfoThead:49 - -1:15000:15000:100
+2018-01-12 13:29:11 INFO DownloaderThead:30 - Sub:初始化录像进程
+2018-01-12 13:29:12 INFO LoginMinaThread:164 - 随机选择登陆服务器 119.90.49.104:8020
+2018-01-12 13:29:17 INFO LoginMinaHandler:92 - 获取的登录用户名为: visitor112124
+2018-01-12 13:29:17 INFO LoginMinaHandler:95 - 登陆的房间编号为: 2700633 床
+2018-01-12 13:29:17 INFO LoginMinaHandler:98 - 加入的讨论群组为: 1 组
+2018-01-12 13:30:28 INFO InfoThead:17 - Sub:读写配置
+2018-01-12 13:30:28 INFO SetSystemProperty:62 - room键的值是：67373
+2018-01-12 13:30:28 INFO SetSystemProperty:62 - Timeout键的值是：-1
+2018-01-12 13:30:28 INFO SetSystemProperty:62 - CONNECTION_TIMEOUT键的值是：15000
+2018-01-12 13:30:28 INFO SetSystemProperty:62 - SO_TIMEOUT键的值是：15000
+2018-01-12 13:30:28 INFO SetSystemProperty:62 - CONNECTIONREQUESTTIMEOUT键的值是：40000
+2018-01-12 13:30:28 INFO SetSystemProperty:62 - cdn键的值是：ws
+2018-01-12 13:30:28 INFO SetSystemProperty:62 - rate键的值是：0
+2018-01-12 13:30:28 INFO SetSystemProperty:62 - PLAYLIST键的值是：100
+2018-01-12 13:30:28 INFO InfoThead:49 - -1:15000:15000:100
+2018-01-12 13:30:30 INFO DownloaderThead:30 - Sub:初始化录像进程
+2018-01-12 13:30:31 INFO LoginMinaThread:164 - 随机选择登陆服务器 119.90.49.93:8061
+2018-01-12 13:30:36 INFO LoginMinaHandler:92 - 获取的登录用户名为: visitor113385
+2018-01-12 13:30:36 INFO LoginMinaHandler:95 - 登陆的房间编号为: 2700633 床
+2018-01-12 13:30:36 INFO LoginMinaHandler:98 - 加入的讨论群组为: 1 组
+2018-01-12 13:31:29 INFO InfoThead:17 - Sub:读写配置
+2018-01-12 13:31:29 INFO SetSystemProperty:62 - room键的值是：67373
+2018-01-12 13:31:29 INFO SetSystemProperty:62 - Timeout键的值是：-1
+2018-01-12 13:31:29 INFO SetSystemProperty:62 - CONNECTION_TIMEOUT键的值是：15000
+2018-01-12 13:31:29 INFO SetSystemProperty:62 - SO_TIMEOUT键的值是：15000
+2018-01-12 13:31:29 INFO SetSystemProperty:62 - CONNECTIONREQUESTTIMEOUT键的值是：40000
+2018-01-12 13:31:29 INFO SetSystemProperty:62 - cdn键的值是：ws
+2018-01-12 13:31:29 INFO SetSystemProperty:62 - rate键的值是：0
+2018-01-12 13:31:29 INFO SetSystemProperty:62 - PLAYLIST键的值是：100
+2018-01-12 13:31:29 INFO InfoThead:49 - -1:15000:15000:100
+2018-01-12 13:31:31 INFO DownloaderThead:30 - Sub:初始化录像进程
+2018-01-12 13:31:31 INFO LoginMinaThread:164 - 随机选择登陆服务器 119.90.49.105:8021
+2018-01-12 13:31:36 INFO LoginMinaHandler:92 - 获取的登录用户名为: visitor114284
+2018-01-12 13:31:36 INFO LoginMinaHandler:95 - 登陆的房间编号为: 2700633 床
+2018-01-12 13:31:37 INFO LoginMinaHandler:98 - 加入的讨论群组为: 1 组
+2018-01-12 13:34:04 INFO InfoThead:17 - Sub:读写配置
+2018-01-12 13:34:04 INFO SetSystemProperty:62 - room键的值是：67373
+2018-01-12 13:34:04 INFO SetSystemProperty:62 - Timeout键的值是：-1
+2018-01-12 13:34:04 INFO SetSystemProperty:62 - CONNECTION_TIMEOUT键的值是：15000
+2018-01-12 13:34:04 INFO SetSystemProperty:62 - SO_TIMEOUT键的值是：15000
+2018-01-12 13:34:04 INFO SetSystemProperty:62 - CONNECTIONREQUESTTIMEOUT键的值是：40000
+2018-01-12 13:34:04 INFO SetSystemProperty:62 - cdn键的值是：ws
+2018-01-12 13:34:04 INFO SetSystemProperty:62 - rate键的值是：0
+2018-01-12 13:34:04 INFO SetSystemProperty:62 - PLAYLIST键的值是：100
+2018-01-12 13:34:04 INFO InfoThead:49 - -1:15000:15000:100
+2018-01-12 13:34:06 INFO DownloaderThead:30 - Sub:初始化录像进程
+2018-01-12 13:34:06 INFO LoginMinaThread:164 - 随机选择登陆服务器 119.90.49.106:8028
+2018-01-12 13:34:11 INFO LoginMinaHandler:92 - 获取的登录用户名为: visitor116591
+2018-01-12 13:34:12 INFO LoginMinaHandler:95 - 登陆的房间编号为: 2700633 床
+2018-01-12 13:34:12 INFO LoginMinaHandler:98 - 加入的讨论群组为: 1 组
+2018-01-12 13:34:14 INFO ContentMinaThread:72 - 随机选择弹幕服务器 danmu.douyu.com:12602
+2018-01-12 13:36:40 INFO InfoThead:17 - Sub:读写配置
+2018-01-12 13:36:40 INFO SetSystemProperty:62 - room键的值是：67373
+2018-01-12 13:36:40 INFO SetSystemProperty:62 - Timeout键的值是：-1
+2018-01-12 13:36:40 INFO SetSystemProperty:62 - CONNECTION_TIMEOUT键的值是：15000
+2018-01-12 13:36:40 INFO SetSystemProperty:62 - SO_TIMEOUT键的值是：15000
+2018-01-12 13:36:40 INFO SetSystemProperty:62 - CONNECTIONREQUESTTIMEOUT键的值是：40000
+2018-01-12 13:36:40 INFO SetSystemProperty:62 - cdn键的值是：ws
+2018-01-12 13:36:40 INFO SetSystemProperty:62 - rate键的值是：0
+2018-01-12 13:36:40 INFO SetSystemProperty:62 - PLAYLIST键的值是：100
+2018-01-12 13:36:40 INFO InfoThead:49 - -1:15000:15000:100
+2018-01-12 13:36:42 INFO DownloaderThead:30 - Sub:初始化录像进程
+2018-01-12 13:36:43 INFO LoginMinaThread:164 - 随机选择登陆服务器 119.90.49.93:8061
+2018-01-12 13:36:48 INFO LoginMinaHandler:92 - 获取的登录用户名为: visitor118809
+2018-01-12 13:36:48 INFO LoginMinaHandler:95 - 登陆的房间编号为: 2700633 床
+2018-01-12 13:36:48 INFO LoginMinaHandler:98 - 加入的讨论群组为: 1 组
+2018-01-12 13:36:48 INFO ContentMinaThread:68 - 随机选择弹幕服务器 danmu.douyu.com:8601
+2018-01-12 13:36:48 INFO ToolSub2:31 - Sub:初始化字幕转储进程
+2018-01-12 13:39:07 INFO InfoThead:17 - Sub:读写配置
+2018-01-12 13:39:07 INFO SetSystemProperty:62 - room键的值是：67373
+2018-01-12 13:39:07 INFO SetSystemProperty:62 - Timeout键的值是：-1
+2018-01-12 13:39:07 INFO SetSystemProperty:62 - CONNECTION_TIMEOUT键的值是：15000
+2018-01-12 13:39:07 INFO SetSystemProperty:62 - SO_TIMEOUT键的值是：15000
+2018-01-12 13:39:07 INFO SetSystemProperty:62 - CONNECTIONREQUESTTIMEOUT键的值是：40000
+2018-01-12 13:39:07 INFO SetSystemProperty:62 - cdn键的值是：ws
+2018-01-12 13:39:07 INFO SetSystemProperty:62 - rate键的值是：0
+2018-01-12 13:39:07 INFO SetSystemProperty:62 - PLAYLIST键的值是：100
+2018-01-12 13:39:07 INFO InfoThead:49 - -1:15000:15000:100
+2018-01-12 13:39:09 INFO DownloaderThead:30 - Sub:初始化录像进程
+2018-01-12 13:39:09 INFO LoginMinaThread:164 - 随机选择登陆服务器 119.90.49.103:8012
+2018-01-12 13:39:14 INFO LoginMinaHandler:92 - 获取的登录用户名为: visitor120815
+2018-01-12 13:39:14 INFO LoginMinaHandler:95 - 登陆的房间编号为: 2700633 床
+2018-01-12 13:39:15 INFO LoginMinaHandler:98 - 加入的讨论群组为: 1 组
+2018-01-12 13:39:15 INFO ContentMinaThread:68 - 随机选择弹幕服务器 danmu.douyu.com:12603
+2018-01-12 13:39:15 INFO ToolSub2:31 - Sub:初始化字幕转储进程
+2018-01-12 13:41:37 INFO InfoThead:17 - Sub:读写配置
+2018-01-12 13:41:37 INFO SetSystemProperty:62 - room键的值是：67373
+2018-01-12 13:41:37 INFO SetSystemProperty:62 - Timeout键的值是：-1
+2018-01-12 13:41:37 INFO SetSystemProperty:62 - CONNECTION_TIMEOUT键的值是：15000
+2018-01-12 13:41:37 INFO SetSystemProperty:62 - SO_TIMEOUT键的值是：15000
+2018-01-12 13:41:37 INFO SetSystemProperty:62 - CONNECTIONREQUESTTIMEOUT键的值是：40000
+2018-01-12 13:41:37 INFO SetSystemProperty:62 - cdn键的值是：ws
+2018-01-12 13:41:37 INFO SetSystemProperty:62 - rate键的值是：0
+2018-01-12 13:41:37 INFO SetSystemProperty:62 - PLAYLIST键的值是：100
+2018-01-12 13:41:37 INFO InfoThead:49 - -1:15000:15000:100
+2018-01-12 13:41:39 INFO DownloaderThead:30 - Sub:初始化录像进程
+2018-01-12 13:41:41 INFO LoginMinaThread:164 - 随机选择登陆服务器 119.90.49.93:8061
+2018-01-12 13:41:46 INFO LoginMinaHandler:92 - 获取的登录用户名为: visitor67239
+2018-01-12 13:41:46 INFO LoginMinaHandler:95 - 登陆的房间编号为: 3329650 床
+2018-01-12 13:41:46 INFO LoginMinaHandler:98 - 加入的讨论群组为: 1 组
+2018-01-12 13:41:46 INFO ContentMinaThread:68 - 随机选择弹幕服务器 danmu.douyu.com:12602
+2018-01-12 13:41:46 INFO ToolSub2:31 - Sub:初始化字幕转储进程
+2018-01-12 13:51:20 INFO InfoThead:17 - Sub:读写配置
+2018-01-12 13:51:20 INFO SetSystemProperty:62 - room键的值是：67373
+2018-01-12 13:51:20 INFO SetSystemProperty:62 - Timeout键的值是：-1
+2018-01-12 13:51:20 INFO SetSystemProperty:62 - CONNECTION_TIMEOUT键的值是：15000
+2018-01-12 13:51:20 INFO SetSystemProperty:62 - SO_TIMEOUT键的值是：15000
+2018-01-12 13:51:20 INFO SetSystemProperty:62 - CONNECTIONREQUESTTIMEOUT键的值是：40000
+2018-01-12 13:51:20 INFO SetSystemProperty:62 - cdn键的值是：ws
+2018-01-12 13:51:20 INFO SetSystemProperty:62 - rate键的值是：0
+2018-01-12 13:51:20 INFO SetSystemProperty:62 - PLAYLIST键的值是：100
+2018-01-12 13:51:20 INFO InfoThead:49 - -1:15000:15000:100
+2018-01-12 13:51:22 INFO DownloaderThead:30 - Sub:初始化录像进程
+2018-01-12 13:51:23 INFO LoginMinaThread:164 - 随机选择登陆服务器 119.90.49.106:8030
+2018-01-12 13:51:28 INFO LoginMinaHandler:92 - 获取的登录用户名为: visitor71567
+2018-01-12 13:51:28 INFO LoginMinaHandler:95 - 登陆的房间编号为: 3329650 床
+2018-01-12 13:51:28 INFO LoginMinaHandler:98 - 加入的讨论群组为: 1 组
+2018-01-12 13:51:28 INFO ContentMinaThread:68 - 随机选择弹幕服务器 danmu.douyu.com:8602
+2018-01-12 13:51:28 INFO ToolSub2:31 - Sub:初始化字幕转储进程
