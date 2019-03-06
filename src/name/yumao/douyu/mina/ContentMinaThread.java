@@ -37,13 +37,13 @@ public class ContentMinaThread implements Runnable{
 	private String loginUser;
 	private String gid;
 	private ToolTipInterface tti;
-	private IoSession loginSession;
+//	private IoSession loginSession;
 	private SttEncoder sttEncoder;
 
 	private List<ContentServerVo> contentServerList;
 
 	//EventBus eventBus;
-	public ContentMinaThread(String filepath,List<ContentServerVo> contentServerList,JTextField inNum,String loginUser,String gid,ToolTipInterface tti,IoSession loginSession /*EventBus eventBus*/){
+	public ContentMinaThread(String filepath,JTextField inNum,String loginUser,String gid,ToolTipInterface tti/*,IoSession loginSession /*EventBus eventBus*/){
 		//拉起进程同时随机选择登陆服务器
 
 		//初始化
@@ -53,18 +53,22 @@ public class ContentMinaThread implements Runnable{
 		this.loginUser = loginUser;
 		this.gid = gid;
 		this.tti = tti;
-		this.loginSession = loginSession;
+		//this.loginSession = loginSession;
 		this.sttEncoder = new SttEncoder();
-		this.contentServerList = contentServerList;
+	//	this.contentServerList = contentServerList;
 		//this.eventBus = eventBus;
 		//getSever();
 	}
 
 	private void getSever() {
 
-		ContentServerVo cntentServerVo = contentServerList.get((int)(Math.random()*contentServerList.size()));
-		Server2_Host = cntentServerVo.getIp();
-		Server2_Port = Integer.parseInt(cntentServerVo.getPort());
+		//ContentServerVo cntentServerVo = contentServerList.get((int)(Math.random()*contentServerList.size()));
+		Server2_Host = "openbarrage.douyutv.com";
+		Server2_Port = 8601;
+
+//		private String Server1_Host="openbarrage.douyutv.com";
+//		private int Server1_Port=8601;
+
 		logger.info("随机选择弹幕服务器 " + Server2_Host + ":" + Server2_Port);
 
 	}
@@ -94,7 +98,7 @@ public class ContentMinaThread implements Runnable{
 		NioSocketConnector connector = new NioSocketConnector();
 		DefaultIoFilterChainBuilder chain = connector.getFilterChain();
 		chain.addLast("codec", new ProtocolCodecFilter(new DouyuCodecFactory()));
-		ContentMinaHandler handler = new ContentMinaHandler(filepath,inNum,tti,loginSession);
+		ContentMinaHandler handler = new ContentMinaHandler(filepath,inNum,tti);
 		//eventBus.register(handler);
 		connector.setHandler(handler);
 		IoSession session = null;

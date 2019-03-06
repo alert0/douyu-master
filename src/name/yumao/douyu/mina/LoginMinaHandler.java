@@ -52,7 +52,7 @@ public class LoginMinaHandler implements IoHandler {
 	@Override
 	public void messageReceived(IoSession session, Object message) throws Exception {
 		String msgStr = (String)message;
-//				logger.info("LoginServer:" + msgStr);
+			logger.info("LoginServer:" + msgStr);
 		//信息处理模块
 		sttDecoder.Parse(msgStr);
 		if(sttDecoder.GetItem("type").equals("loginres")){
@@ -103,9 +103,9 @@ public class LoginMinaHandler implements IoHandler {
 			//启动弹幕获取进程
 				tti.setToolTip("启动弹幕获取进程...");
 			}
-			ContentMinaThread contentMina = new ContentMinaThread(filepath,contentServerList,inNum,username,"-9999",tti,session);
-			Thread contentMinaThead = new Thread(contentMina);
-			contentMinaThead.start();
+//			ContentMinaThread contentMina = new ContentMinaThread(filepath,contentServerList,inNum,username,"-9999",tti,session);
+//			Thread contentMinaThead = new Thread(contentMina);
+//			contentMinaThead.start();
 //			 DouyuAssistantMain.e.register(contentMina);
 			tti.setToolTip("斗鱼TV小助手启动完毕!");
 			//-----------------------开始附加程序加载项目-----------------------//

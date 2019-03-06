@@ -73,7 +73,7 @@ public class HttpVideoDownloader {
 				long bufferSize =  20* 1024 * 1024;
 				//long ctime = 0;
 
-				loginMina(inNum, file.getPath().replace("flv", "ass"));
+				//loginMina(inNum, file.getPath().replace("flv", "ass"));
 
 				for (long bytesRead; (bytesRead = source.read(sinkBuffer, bufferSize)) != -1; ) {
 

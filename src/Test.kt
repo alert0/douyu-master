@@ -48,7 +48,7 @@ fun authLoginHWCTC()   {
     var okHttpBuilder =  okhttp3.OkHttpClient.Builder()
     val TIME_OUT = 2000
 
-    val URL = "${AuthenticationURL}EPG/jsp/AuthenticationURL?UserID=${UserID}&Action=Login&SampleId=1331";
+   // val URL = "${AuthenticationURL}EPG/jsp/AuthenticationURL?UserID=${UserID}&Action=Login&SampleId=1331";
 
 
 
@@ -109,17 +109,7 @@ fun authLoginHWCTC()   {
 
 fun  main(args: Array<String>) {
 
-        //for (i in 0..250000000000) {
 
-//            val inNum2 = JTextField(10)
-//            inNum2.text = "2461752"
-//            Thread(DownloaderThead(inNum2, Config.cdn, Config.rate) ).start()
-//
-
-
-                ///    TimeUnit.SECONDS.sleep(1);
-            //1000 milliseconds is one second.
-       // }
 
 
 

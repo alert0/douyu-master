@@ -27,17 +27,17 @@ public class ContentMinaHandler implements IoHandler {
 	private String filepath;
 	private JTextField inNum;
 	//private JButton butnSure;
-	private IoSession loginSession;
+//	private IoSession loginSession;
 	private SttDecoder sttDecoder;
 	private SttDecoder suiDecoder;
 	private Calendar calendar;
 	private static Logger logger = Logger.getLogger(ContentMinaHandler.class);
-	public ContentMinaHandler(String filepath,JTextField inNum,ToolTipInterface tti,IoSession loginSession){
+	public ContentMinaHandler(String filepath,JTextField inNum,ToolTipInterface tti){
 		this.filepath = filepath;
 		this.inNum = inNum;
 		//this.butnSure = butnSure;
 		this.tti = tti;
-		this.loginSession = loginSession;
+		//this.loginSession = loginSession;
 		this.sttDecoder = new SttDecoder();
 		this.suiDecoder = new SttDecoder();
 		this.calendar = Calendar.getInstance(TimeZone.getTimeZone("GMT+08:00"));
@@ -104,7 +104,7 @@ public class ContentMinaHandler implements IoHandler {
 		sub.close();
 		inNum.setEditable(true);
 		//butnSure.setEnabled(true);
-		loginSession.close(true);
+		//loginSession.close(true);
 		tti.setToolTip("失去与弹幕服务器的连接");
 		logger.info("失去与弹幕服务器的连接");
 		

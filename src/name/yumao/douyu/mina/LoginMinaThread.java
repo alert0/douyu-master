@@ -42,8 +42,8 @@ import org.jetbrains.annotations.NotNull;
 
 public class LoginMinaThread implements Runnable {
     private static Logger logger = Logger.getLogger(LoginMinaThread.class);
-    private String Server1_Host;
-    private int Server1_Port;
+    private String Server1_Host="openbarrage.douyutv.com";
+    private int Server1_Port=8601;
     private String filepath;
     private JTextField inNum;
     //	private JButton butnSure;
@@ -73,12 +73,12 @@ public class LoginMinaThread implements Runnable {
     public void run() {
 
 
-        DouyuApiDataVo api = getDouyuApiDataVo();
-        boolean isLogin =   login(api);
+       // DouyuApiDataVo api = getDouyuApiDataVo();
+        boolean isLogin =   login();
 
         while (!isLogin) {
-            api = getDouyuApiDataVo();
-            isLogin = login(api);
+          //  api = getDouyuApiDataVo();
+            isLogin = login();
         }
 
     }
@@ -88,10 +88,10 @@ public class LoginMinaThread implements Runnable {
 
 
 
-    private boolean login(DouyuApiDataVo api) {
+    private boolean login() {
         try {
 
-            writeRoomInfo(api);
+            //writeRoomInfo(api);
 
 
             IoConnector connector = new NioSocketConnector();
@@ -155,14 +155,14 @@ public class LoginMinaThread implements Runnable {
         }
     }
 
-    @NotNull
-    private DouyuApiDataVo getDouyuApiDataVo() {
-        DouyuApiDataVo api = HttpClientFromDouyu.Companion.QueryDouyuDownloadUrl(Integer.valueOf(inNum.getText()), Config.cdn);
-        DouyuApiServersVo loginServerVo = api.getServers().get((int) (Math.random() * api.getServers().size()));
-        Server1_Host = loginServerVo.getIp();
-        Server1_Port = Integer.parseInt(loginServerVo.getPort());
-        logger.info("随机选择登陆服务器 " + Server1_Host + ":" + Server1_Port);
-        return api;
-    }
+//    @NotNull
+//    private DouyuApiDataVo getDouyuApiDataVo() {
+//   //     DouyuApiDataVo api = HttpClientFromDouyu.Companion.QueryDouyuDownloadUrl(Integer.valueOf(inNum.getText()), Config.cdn);
+////       DouyuApiServersVo loginServerVo = api.getServers().get((int) (Math.random() * api.getServers().size()));
+//        Server1_Host = "openbarrage.douyutv.com";
+//        Server1_Port = 8601;
+////        logger.info("随机选择登陆服务器 " + Server1_Host + ":" + Server1_Port);
+//        return api;
+//    }
 
 }
